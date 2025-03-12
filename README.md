@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @inasalkamachy
 - I have master in computer engineering from Cakaya University in Machine learning, with 3.64 GPA
--  🌱 I’m currently master computer sciece student at Karlstad University, working with Energy Forcasting Models.
+-  🌱 And I have master computer sciece student at Karlstad University, working with Energy Forcasting Models.
 - 👀 I’m interested in every thing related to datascience, Machine learning, deep leanrning, computer vision, time series models. 
 - 💞️ I’m looking for PhD position related to AI, ML, DL. 
 - 📫 How to reach me ...inasqamaji@gmail.com
